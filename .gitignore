@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+env/
+venv/
+
+# Env
+.env
+
+# VSCode
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg
+*.whl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# uv/lock files
+uv.lock
